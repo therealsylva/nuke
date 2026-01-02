@@ -1,6 +1,6 @@
 # Nuke: Time-Delayed Secure Deletion
 
-[![Nuke Banner](https://img.shields.io/badge/Nuke-v3.1-red)](https://github.com/yourusername/nuke)
+[![Nuke Banner](https://img.shields.io/badge/Nuke-v3.3.0-red)](https://github.com/yourusername/nuke)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 [![Rust](https://img.shields.io/badge/rust-1.70+-orange)](https://www.rust-lang.org)
 
@@ -150,6 +150,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 5. Open a Pull Request
 
 ## Changelog
+
+### v3.3.0
+- Enhanced time parsing with humantime integration
+- Improved daemon performance and reliability
+- Better error messages and user feedback
 
 ### v3.1
 - Added daemon mode for background operation
